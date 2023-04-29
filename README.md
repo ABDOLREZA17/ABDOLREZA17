@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ABDOLREZA17
 - 👀 I’m interested in ...machin learning , java , blockchain and crypto analysis
-- 🌱 I’m currently learning ..java and analysis
+- 🌱 I’m currently learning python ,fastapi framework..java and analysis
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
